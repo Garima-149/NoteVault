@@ -1,0 +1,10 @@
+.resource{
+    background-color:#ffff84;
+    height: 45rem;
+   
+}
+.accordion-button{
+    background-color:whitesmoke;
+    font-weight:bold;
+    font-size: large;
+}

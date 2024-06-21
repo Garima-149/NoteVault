@@ -1,0 +1,68 @@
+.checked {
+    color: orange;
+  }
+.hover:hover{
+  background-color:#3B71CA;
+  border-radius: 4px;
+  height: fit-content;
+}  
+.footer{
+  background-color: rgb(74, 72, 72);
+  margin-left:0px ;
+  margin-right:0px;
+  color: white;
+  height:15rem;
+  width:300rem;
+}
+.social{
+  background-color: rgb(74, 72, 72);
+}
+.list{
+  margin-left: 42rem;
+  cursor: pointer;
+  
+}
+.feedback{
+  background-color: #333399;
+  border-radius: 5px;
+  margin-top: 10rem;
+  height: 28rem;
+  width:50rem;
+  cursor: pointer;
+  
+}
+.h3{
+  margin-left: 42rem;
+}
+.card-hover {
+  transition: transform 0.3s ease-in-out;
+}
+.card-hover:hover {
+  transform: scale(1.1);
+}
+
+/* src/components/Footer.css */
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  width: 101%;
+  height:15rem;
+ 
+}
+.App2{
+  height: 70rem;
+  width: 94.5rem;
+}
+
+
+
+.social-icons a {
+  color: rgb(237, 230, 230);
+  margin: 0px 0px;
+  font-size: 24px;
+  padding: 0px;
+  margin-right: 45rem;
+  text-decoration: none;
+}
